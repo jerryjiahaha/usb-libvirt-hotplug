@@ -1,0 +1,2 @@
+ATTR{idVendor}=="0bd7",RUN+="/home/marst/project/usb-libvirt-hotplug/usb-libvirt-hotplug-pi.sh centos6.9"
+
